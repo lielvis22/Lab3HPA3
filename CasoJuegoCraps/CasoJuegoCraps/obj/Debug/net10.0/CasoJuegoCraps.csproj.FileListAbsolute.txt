@@ -1,0 +1,14 @@
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\bin\Debug\net10.0\CasoJuegoCraps.exe
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\bin\Debug\net10.0\CasoJuegoCraps.deps.json
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\bin\Debug\net10.0\CasoJuegoCraps.runtimeconfig.json
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\bin\Debug\net10.0\CasoJuegoCraps.dll
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\bin\Debug\net10.0\CasoJuegoCraps.pdb
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\CasoJuegoCraps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\CasoJuegoCraps.AssemblyInfoInputs.cache
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\CasoJuegoCraps.AssemblyInfo.cs
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\CasoJuegoCraps.csproj.CoreCompileInputs.cache
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\CasoJuegoCraps.dll
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\refint\CasoJuegoCraps.dll
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\CasoJuegoCraps.pdb
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\CasoJuegoCraps.genruntimeconfig.cache
+C:\Users\lielv\source\repos\CasoJuegoCraps\CasoJuegoCraps\obj\Debug\net10.0\ref\CasoJuegoCraps.dll

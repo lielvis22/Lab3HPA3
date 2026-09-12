@@ -1,0 +1,10 @@
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.AssemblyReference.cache
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.Form1.resources
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.Properties.Resources.resources
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.GenerateResource.cache
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.CoreCompileInputs.cache
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.exe.config
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.exe
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.pdb
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.exe
+C:\Users\lielv\source\repos\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.pdb
