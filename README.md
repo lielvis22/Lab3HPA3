@@ -1,12 +1,12 @@
 # Laboratorio #3
 
-📅 **Fecha:** 14/09/2026
+**Fecha:** 14/09/2026
 
-## 📄 Contenido del Repositorio
+## Contenido del Repositorio
 
 Este repositorio contiene el desarrollo del **Laboratorio #3: Clases en C#**, correspondiente al Módulo II — Elementos Básicos del Lenguaje Orientado a Objetos y Windows Forms. El trabajo abarca la creación de clases y objetos en C#, el uso de constructores y propiedades encapsuladas, la implementación de interfaces gráficas en Windows Forms con enlace de datos (`DataGridView`), la validación robusta de entradas de usuario, y la construcción de una arquitectura de Interfaz de Documentos Múltiples (MDI) con formularios padre e hijo.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje / Framework:** C# (.NET) — Windows Forms
 - **IDE:** Visual Studio
@@ -24,7 +24,7 @@ Laboratorio3/
 └── README.md           # Documentación del proyecto
 ```
 
-## ▶️ Instrucciones de Ejecución / Uso
+## Instrucciones de Ejecución / Uso
 
 1. Clonar el repositorio:
    ```
@@ -35,7 +35,7 @@ Laboratorio3/
 4. Compilar el proyecto (`Ctrl + Shift + B`).
 5. Ejecutar la aplicación deseada (`F5` o botón **Start**).
 
-## ✍️ Autor y Contexto
+## Autor y Contexto
 
 - **Nombre:** Elvis Li
 - **Institución:** Universidad Tecnológica de Panamá (UTP) — Facultad de Ingeniería en Sistemas, Campus Víctor Levi Sasso
