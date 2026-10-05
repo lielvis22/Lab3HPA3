@@ -25,15 +25,19 @@ Laboratorio3/
 ```
 ## Evidencias
 **AplicacionMDI**
+
 <img width="733" height="485" alt="image" src="https://github.com/user-attachments/assets/909c132d-ffe3-47f8-88b9-4018acb50ffa" />
 
 **CasoJuegoCraps**
+
 <img width="1461" height="407" alt="image" src="https://github.com/user-attachments/assets/390b1c13-cc05-44f1-b0e6-0b78191ce4f2" />
 
 **EjemploGrid**
+
 <img width="733" height="485" alt="image" src="https://github.com/user-attachments/assets/4791ccb8-1a97-4307-9f78-7bf85ec42351" />
 
 ***Insercion de Datos***
+
 <img width="817" height="482" alt="image" src="https://github.com/user-attachments/assets/5243ddaf-377f-4a42-989c-de2c020486fb" />
 
 ## Instrucciones de Ejecución / Uso
