@@ -1,0 +1,11 @@
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\bin\Release\AplicacionMDI.exe.config
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\bin\Release\AplicacionMDI.exe
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\bin\Release\AplicacionMDI.pdb
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\obj\Release\AplicacionMDI.csproj.AssemblyReference.cache
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\obj\Release\AplicacionMDI.Form1.resources
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\obj\Release\AplicacionMDI.Properties.Resources.resources
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\obj\Release\AplicacionMDI.VentanaHijo.resources
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\obj\Release\AplicacionMDI.csproj.GenerateResource.cache
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\obj\Release\AplicacionMDI.csproj.CoreCompileInputs.cache
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\obj\Release\AplicacionMDI.exe
+C:\Users\lielv\source\repos\Lab3_ElvisLi_HPAIII\AplicacionMDI\AplicacionMDI\obj\Release\AplicacionMDI.pdb
