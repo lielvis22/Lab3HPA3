@@ -26,7 +26,7 @@ Laboratorio3/
 ## Evidencias
 **AplicacionMDI**
 
-<img width="733" height="485" alt="image" src="https://github.com/user-attachments/assets/909c132d-ffe3-47f8-88b9-4018acb50ffa" />
+<img width="750" height="502" alt="image" src="https://github.com/user-attachments/assets/6bd48749-d520-40d8-8e35-f1245c1f8a8e" />
 
 **CasoJuegoCraps**
 
